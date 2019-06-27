@@ -1,0 +1,251 @@
+* {
+  font-family: 'Dosis', sans-serif;
+}
+
+.header {
+  color: #696969;
+}
+
+
+#links {
+  display: flex;
+  display: inline-block;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.pages {
+  padding: 10px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  padding: 0px;
+  margin-right: 10px;
+}
+
+a {
+  color: #7FBF8D;
+  text-decoration: none;
+}
+
+.header {
+  font-size: 60px;
+  margin-left: 30px;
+  margin-top:-90px;
+}
+
+
+.ourmission {
+  font-size: 20px;
+  color: #CCD1D1;
+}
+
+.pic-of-us {
+  width: auto;
+  height: 400px;
+  margin-top: 90px;
+}
+
+.pic-of-us-statement {
+  margin-top: 50px;
+}
+
+.all-home-stats {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.email {
+  margin-top: 50px;
+}
+
+.mark {
+  height: 50px;
+  margin-left: 150px;
+  margin-bottom: 30px;
+  margin-top: 0px;
+}
+
+.wordquote {
+  font-size: 35px;
+  color: #CCD1D1;
+}
+
+.citation {
+  margin-left: 900px;
+  margin-top: 65px;
+  font-size: 35px;
+  color: #CCD1D1;
+}
+
+.lifestyle-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+  height: 50px;
+  width: auto;
+  margin-top: 100px;
+}
+
+.lifestyle-icons-description {
+  margin-top: 200px
+}
+
+.water {
+  border: solid 1px white;
+   width: 240px;
+}
+
+.land-use {
+  margin-bottom: 30px;
+}
+
+.land {
+  border: solid 1px white;
+  width: 240px;
+}
+
+.climate-change {
+  margin-bottom: 35px;
+}
+
+.fire {
+  border: solid 1px white;
+   width: 240px;}
+
+.boxes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 450px;
+}
+
+.challenges{
+     border: solid 6px #696969;
+     color: #CCD1D1;
+     height: 600px;
+     width: 300px;
+     font-size: 30px;
+   }
+
+.resources {
+    border: solid 6px #696969;
+    color: #CCD1D1;
+    height: 600px;
+    width: 300px;
+    font-size: 30px;
+}
+
+.restaurants {
+    border: solid 6px #696969;
+    color: #CCD1D1;
+    height: 600px;
+    width: 300px;
+    font-size: 30px;
+}
+
+.content-challenges {
+  font-size: 20px;
+  color: #696969;
+}
+
+
+.trash-info {
+  font-size: 20px;
+  color: ##696969;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.sustainable-images {
+  font-size: 15px;
+  color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin: auto;
+}
+
+.trash-statement {
+  font-size: 15px;
+  color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.stars-container{
+  border: 1px solid;
+  margin: 50px;
+  width: 525px;
+  height: 105px;
+}
+
+.top-part{
+  text-align:center;
+  justify-content:center;
+  margin: 50px;
+}
+.star {
+  background: url('./assets/gray-trash.png');
+  background-size: cover;
+  width:50px;
+  height:50px;
+  margin:20px;
+
+}
+
+.hover {
+  background: url('./assets/light-green-trash.png');
+  background-size: cover;
+}
+.filled {
+    background: url('./assets/dark-green-trash.png');
+    background-size: cover;
+  }
+
+ol {
+  list-style-type: none;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.Quote1 {
+  height:50px;
+  margin-left: 90px;
+}
+.citation-why-me {
+  font-size: 10px;
+  margin-left:480px;
+  margin-top:65px;
+  font-size: 35px;
+  color: #CCD1D1;
+}
+.Pagebreak {
+Height: auto;
+margin-bottom: -50px;
+width: 100%;
+margin-left: -100px;
+}
+
+.Meat{
+  margin-top: 100px;
+  font-size: 20px;
+  margin-right: 150px;
+  color: #696969;
+  text-align: center;
+}
+
+.ourmission {
+  font-size: 30px;
+  color: #CCD1D1;
+  margin-top: -10px;
+  margin-left: 180px;
+}
